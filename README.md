@@ -14,6 +14,6 @@ suggestions for improvements.
 For any questions or feedback, feel free to reach out to me at israelmakanjuola7@gmail.com.
 
 # Futher Learning
-<a href=""><li> MDN Web Docs - JavaScript </li></a>
-<a href=""><li> JavaScript.info </li></a>
-<a href=""><li> Eloquent JavaScript </li></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><li> MDN Web Docs - JavaScript </li></a>
+<a href="https://javascript.info/"><li> JavaScript.info </li></a>
+<a href="https://eloquentjavascript.net/"><li> Eloquent JavaScript </li></a>
