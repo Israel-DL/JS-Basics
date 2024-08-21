@@ -11,9 +11,9 @@ If you'd like to contribute to this guide, feel free to submit a pull request or
 suggestions for improvements.
 
 # Contact
-For any questions or feedback, feel free to reach out at to me at israelmakanjuola7@gmail.com.
+For any questions or feedback, feel free to reach out to me at israelmakanjuola7@gmail.com.
 
 # Futher Learning
-MDN Web Docs - JavaScript
-JavaScript.info
-Eloquent JavaScript
+<a href=""><li> MDN Web Docs - JavaScript </li></a>
+<a href=""><li> JavaScript.info </li></a>
+<a href=""><li> Eloquent JavaScript </li></a>
